@@ -36,7 +36,7 @@ Try it out: http://68.183.233.92/
 
 
 # Web App 
-The website file is DentDetection.7z . Unzip it and activate it using flask in the terminal. Instructions are on the website which allows the user to upload files and detect the dents.
+The website file is DentDetection.7z , available on this link https://drive.google.com/file/d/14gSYuqaYPoGNW49rjkfmV33JbwoxKCmK/view?usp=sharing . Unzip it and activate it using flask in the terminal. Instructions are on the website which allows the user to upload files and detect the dents.
 1) Place the trained mask rcnn coco model(including logs) into 'aktwelve_mask_rcnn' directory.
 2) Use`pip install -r requirements.txt` to install all the packages necessary to run the Web App.
 3) Run `python3 server_new.py' 
