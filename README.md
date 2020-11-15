@@ -33,3 +33,11 @@ This software can be used in
 ![Optional Text](8.jpg)
 
 Try it out: http://68.183.233.92/
+
+
+# Web App 
+The website file is DentDetection.7z . Unzip it and activate it using flask in the terminal. Instructions are on the website which allows the user to upload files and detect the dents.
+1) Use `pip install -r requirements.txt` to install all the packages necessary to run the Web App.
+2) Run `python3 server_new.py' 
+
+# Have fun!
