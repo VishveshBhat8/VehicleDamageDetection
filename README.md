@@ -1,4 +1,4 @@
-# DentDetect.ai
+# Vehicle Damage Detection
 AI which provides detailed report on any vehicle's damage regions and status
 
 
